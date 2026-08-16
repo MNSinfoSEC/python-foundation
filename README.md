@@ -45,7 +45,7 @@ This repository tracks my progress as I strengthen my programming fundamentals a
 
 ---
 
-⭐ *Learning. Building. Improving.*
+⭐ A BEGINNER TODAY, A DEFENDER IN THE MAKING ⭐
 
-**The journey is just beginning.**
+The journey is just beginning!!!!
 
