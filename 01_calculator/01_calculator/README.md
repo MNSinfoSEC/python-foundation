@@ -24,7 +24,7 @@ A beginner Python program that performs basic arithmetic operations based on use
 
 Make sure Python is installed, then run:
 
-```bash
+
 python calculator.py
 
 EXAMPLE
